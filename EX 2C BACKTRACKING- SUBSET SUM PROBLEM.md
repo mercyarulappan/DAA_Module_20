@@ -30,8 +30,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 
 ## Program:
 
-### Developed by : Abrin Nisha A
-### Reg no : 212222230005
+### Developed by : MERCY A
+### Reg no : 212223110027
 
 ```
 def SubsetSum(a,i,sum,target,n):
